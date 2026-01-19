@@ -37,7 +37,7 @@ I am committed to high-performance font engineering:
 - **Southeast Asian Bridge Research:** Documenting the visual weight balance between scripts.
 
 ## 🌐 Connect
-- **Website:** [manond.type](https://manond-type.github.io) (Coming Soon)
+- **Website:** [manond-type](https://manond-type.github.io) (Coming Soon)
 - **Instagram:** [@manond.type](https://instagram.com/manond.type)
 
 ---
