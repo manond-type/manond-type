@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Manond
 
 ### Boutique Type Foundry | Humanist-Geometric Design
-**Location:** Thailand 🇹🇭
+<!-- **Location:** Thailand 🇹🇭 -->
 
 ---
 
